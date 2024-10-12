@@ -27,14 +27,16 @@ This is a simple news website built using **HTML**, **CSS**, and **JavaScript**.
 You can view the live demo of the project here: [Live Demo Link](https://yourusername.github.io/news-website)
 
 ## YouTube Video:
-Check out the video tutorial on how to build this project on [YouTube](https://youtube.com)
+Check out the video tutorial on how to build this project on [YouTube](https://www.youtube.com/watch?v=NAR2etr9PZs)
 
 ## Screenshots:
 - Home Page:
-    ![Home Page](screenshots/home-page.png)
+    ![Home Page](![Screenshot (81)](https://github.com/user-attachments/assets/ef6c6d17-8682-4e95-b5f2-9639885a6020)
+)
 
 - Dark Mode:
-    ![Dark Mode](screenshots/dark-mode.png)
+    ![Dark Mode](![Screenshot (80)](https://github.com/user-attachments/assets/bec032da-a6a1-43ce-86a8-edb69c33702a)
+)
 
 ## API Usage:
 - Register for a free account at [News API](https://newsapi.org).
@@ -49,21 +51,11 @@ Hey guys, In this video, we will build a complete News Website using only **HTML
 Websites used:
 - News API: https://newsapi.org
 
-📒 Get Notes here: [Telegram Notes](https://telegram.me/realanujbhaiya/129)  
-🧑🏻‍💻 Get Code here: [Telegram Code](https://telegram.me/realanujbhaiya/132)
-
-🚀 Join our Telegram Community:
-- [Telegram Channel](https://telegram.me/realanujbhaiya)
-
-📌 Bookmark this Playlist:  
-[Web Development Course For Beginners](https://www.youtube.com/playlist)
-
----
 
 ### Follow us on:
-- [LinkedIn](https://linkedin.com/company/coding-shuttle)
-- [Instagram](https://instagram.com/codingshuttle_)
-- [Twitter](https://twitter.com/anujbhaiya716)
+- [LinkedIn](https://www.linkedin.com/in/nishant-chauhan-870239234/)
+- [Instagram](https://www.instagram.com/nishant.chauhan20/_)
+- [Twitter](https://x.com/nishant852800)
 
 ### Hashtags:
-`#codingshuttle` `#webdevelopment` `#newswebsite` `#htmlcssjavascript`
+`#webdevelopment` `#newswebsite` `#htmlcssjavascript`
