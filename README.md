@@ -28,12 +28,12 @@ Check out the video tutorial on how to build this project on [YouTube](https://w
 
 ## Screenshots:
 - Home Page:
-    ![Home Page](![Screenshot (81)](https://github.com/user-attachments/assets/ef6c6d17-8682-4e95-b5f2-9639885a6020)
-)
+[Screenshot (81)](https://github.com/user-attachments/assets/ef6c6d17-8682-4e95-b5f2-9639885a6020)
+
 
 - Dark Mode:
-    ![Dark Mode](![Screenshot (80)](https://github.com/user-attachments/assets/bec032da-a6a1-43ce-86a8-edb69c33702a)
-)
+  [Screenshot (80)](https://github.com/user-attachments/assets/bec032da-a6a1-43ce-86a8-edb69c33702a)
+
 
 ## API Usage:
 - Register for a free account at [News API](https://newsapi.org).
