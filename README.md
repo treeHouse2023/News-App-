@@ -23,9 +23,6 @@ This is a simple news website built using **HTML**, **CSS**, and **JavaScript**.
 2. Open the `index.html` file in your browser.
 3. Make sure you have an API key from [News API](https://newsapi.org) and replace the placeholder in `script.js` with your key.
 
-## Live Demo:
-You can view the live demo of the project here: [Live Demo Link](https://yourusername.github.io/news-website)
-
 ## YouTube Video:
 Check out the video tutorial on how to build this project on [YouTube](https://www.youtube.com/watch?v=NAR2etr9PZs)
 
